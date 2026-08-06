@@ -12,6 +12,10 @@ Sarah Tonin can be found in the Throne of the Bugmaster, specifically in one of 
  - Alters Bugmaster's treasure to have skeleton limb rewards in addition to its vanilla rewards, which you can arm Sarah Tonin with
  - For purpose of being able to fit the vanilla amount of rewards in Bugmaster's chest in addition to the skeleton limbs, a Certain Item has had its max stack size increased to 32
  - C U B E
+ - Two new game starts, **neither** of which I recommend using for a serious playthrough
 
 # Installation
 Place the "Rescue Sarah Tonin" folder and all included files in your Kenshi mod folder (Steam file path example: `C:\Steam\steamapps\common\Kenshi\mods\Rescue Sarah Tonin`).
+
+# Update 
+1.0 — First version, Sarah Tonin recruitable in Bugmaster's Tower.
