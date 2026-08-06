@@ -10,4 +10,5 @@ Sarah Tonin can be found in the Throne of the Bugmaster, specifically in one of 
  - Gives Bugmaster a preset appearance (still male Greenlander, just not randomized), a "blood spider" red color scheme, and minor clothing changes (no armor, purely cosmetic)
  - Adds unique recruit Sarah Tonin, with unique dialogue (also functions as spider radar, using Miu as a base)
  - Alters Bugmaster's treasure to have skeleton limb rewards in addition to its vanilla rewards, which you can arm Sarah Tonin with
+ - For purpose of being able to fit the vanilla amount of rewards in Bugmaster's chest in addition to the skeleton limbs, a Certain Item has had its max stack size increased to 32
  - C U B E
