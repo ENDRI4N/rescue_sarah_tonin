@@ -17,5 +17,5 @@ Sarah Tonin can be found in the Throne of the Bugmaster, specifically in one of 
 # Installation
 Place the "Rescue Sarah Tonin" folder and all included files in your Kenshi mod folder (Steam file path example: `C:\Steam\steamapps\common\Kenshi\mods\Rescue Sarah Tonin`).
 
-# Update 
+# Updates List
 1.0 — First version, Sarah Tonin recruitable in Bugmaster's Tower.
